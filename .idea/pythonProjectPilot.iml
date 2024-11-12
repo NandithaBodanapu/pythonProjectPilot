@@ -5,8 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/smallProj" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/smallProj" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (pythonProjectPilot)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (pythonProjectPilot)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -1,0 +1,13 @@
+ref :https://www.youtube.com/watch?v=zwHyRBQwM8w&list=PLDea8VeK4MUSpogXjgBqw7OMmyWoVC8BB&index=4
+A brief intro to tkinter
+- python package that allows gui
+- starts with an empty root window
+-widget- elements that we add to our window, more like buttons
+-To add widgets
+    1) create a widget and assign it to variable
+    2) let tkinter know your want to add the widget
+- Two method to present out widget(use only one method)
+    - pack method - beginner friendly
+    - grid method- more aesthetic
+
+
